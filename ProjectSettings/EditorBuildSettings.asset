@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu_principale.unity
+    guid: 9bafe4a68727d47ee822f8c26dd4057f
+  - enabled: 0
+    path: Assets/Scenes/intro.unity
+    guid: 96f12d38cdb984ab7ba42be1a4513a50
+  - enabled: 0
+    path: Assets/Scenes/level_tutorial.unity
+    guid: 4a06678308d8e42c8a9fba6b531e7b49
+  - enabled: 0
+    path: Assets/Scenes/Intramezzo4.unity
+    guid: 73a54e36b4fd1440e8095d308358be25
+  - enabled: 0
+    path: Assets/Scenes/NewLevel1.unity
+    guid: 0e7b2229f49b34b63a0a7abe18857327
+  - enabled: 0
+    path: Assets/Scenes/NewLevel2.unity
+    guid: ea8298243eb83431bb35e40e0e67a144
+  - enabled: 0
+    path: Assets/Scenes/Intramezzo1.unity
+    guid: 1e1d2d096a07c4a7b8c22b5744df683c
+  - enabled: 0
+    path: Assets/Scenes/NewLevel3.unity
+    guid: a682efef15eda438cb7fa22611d3a839
+  - enabled: 0
+    path: Assets/Scenes/NewLevel4.unity
+    guid: 401a4554e4e4447f388d080ba0ed723c
+  - enabled: 1
+    path: Assets/Scenes/Intramezzo2.unity
+    guid: 7b93d98eb3d534025b7fba73b15020fd
+  - enabled: 1
+    path: Assets/Scenes/NewLevel5.unity
+    guid: 4d20ec6c41dc84bd1b386aa2d42636ae
+  - enabled: 0
+    path: Assets/Scenes/Intramezzo3.unity
+    guid: 81fa18e0fc6f4404db288a06723db786
+  - enabled: 0
+    path: Assets/Scenes/NewLevel6.unity
+    guid: 82e4b2978313b421e8ef951eb250a51f
+  - enabled: 0
+    path: Assets/Scenes/Final1.unity
+    guid: 752751d14962849e7b25f4aa40cb0ee6
+  - enabled: 0
+    path: Assets/Scenes/Final2.unity
+    guid: bb5df208da1864d13a7f8a3c8347867b
+  m_configObjects: {}

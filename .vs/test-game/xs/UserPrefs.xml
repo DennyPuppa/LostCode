@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{A2D43C10-3596-AAD7-B17E-19C67F32E7FD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/C#_script/pauseMenu.cs">
+    <Files>
+      <File FileName="Assets/Scenes/C#_script/GeneralGameController.cs" Line="30" Column="51" IsPinned="True" />
+      <File FileName="Assets/Scenes/C#_script/Video2.cs" IsPinned="True" />
+      <File FileName="Assets/Scenes/C#_script/collectible.cs" IsPinned="True" />
+      <File FileName="Assets/Scenes/C#_script/enemy_system.cs" IsPinned="True" />
+      <File FileName="Assets/Scenes/C#_script/GameScena2Controller.cs" IsPinned="True" />
+      <File FileName="Assets/Scenes/C#_script/VideoFinale1.cs" IsPinned="True" />
+      <File FileName="Assets/Scenes/C#_script/VideoFine.cs" IsPinned="True" />
+      <File FileName="Assets/Scenes/C#_script/player_collider.cs" IsPinned="True" />
+      <File FileName="Assets/Scenes/C#_script/buttonSkip.cs" IsPinned="True" />
+      <File FileName="Assets/Scenes/C#_script/GameScena1Controller.cs" />
+      <File FileName="Assets/Scenes/C#_script/SessionData.cs" />
+      <File FileName="Assets/Scenes/C#_script/GameScena3Controller.cs" />
+      <File FileName="Assets/Scenes/C#_script/pauseMenu.cs" Line="46" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test-game" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scenes" expanded="True">
+                <Node name="C#_script" expanded="True">
+                  <Node name="pauseMenu.cs" selected="True" />
+                </Node>
+                <Node name="materials" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="956a5b2d-6a4a-4646-8771-f5e3c8fd2b67" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

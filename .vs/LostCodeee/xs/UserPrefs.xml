@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{3BAF70D2-8BFB-3D3A-D0D1-802DBCE8AC61}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/C#_script/player_collider.cs">
+    <Files>
+      <File FileName="Assets/Scenes/C#_script/VideoFinale1.cs" Line="12" Column="97" IsPinned="True" />
+      <File FileName="Assets/Scenes/C#_script/Video2.cs" Line="14" Column="107" IsPinned="True" />
+      <File FileName="Assets/Scenes/C#_script/MenuButtonStart.cs" Line="7" Column="2" IsPinned="True" />
+      <File FileName="Assets/Scenes/C#_script/SoundManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scenes/C#_script/player_move_2.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scenes/C#_script/TutorialPannelController.cs" Line="22" Column="1" />
+      <File FileName="Assets/Scenes/C#_script/chest.cs" />
+      <File FileName="Assets/Scenes/C#_script/VideoFinale2.cs" />
+      <File FileName="Assets/Scenes/C#_script/VideoFine.cs" />
+      <File FileName="Assets/Scenes/C#_script/Video3.cs" Line="19" Column="42" />
+      <File FileName="Assets/Scenes/C#_script/portalcollider.cs" Line="5" Column="1" />
+      <File FileName="Assets/Scenes/C#_script/player_collider.cs" Line="119" Column="6" />
+      <File FileName="Assets/Scenes/C#_script/Projectile.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scenes/C#_script/SessionData.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LostCodeee" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scenes" expanded="True">
+                <Node name="C#_script" expanded="True">
+                  <Node name="player_collider.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
