@@ -1,4 +1,4 @@
-# LostCode
+# LostCode (Mac Only)
 Platform Game Develop 2020 IED Firenze, exposed at internet festival Pisa
 
 ## Install guide:
